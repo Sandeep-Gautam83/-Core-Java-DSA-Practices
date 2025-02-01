@@ -34,7 +34,7 @@ Help us reach more learners and coders! Share this repository with your friends,
 ---
 
 
-## 👥 Join Our Learning Communities for More Resources:  
+## 👥 Learning Communities for More Resources:  
 Stay updated with **jobs**, **internships**, and **interview preparation materials** by joining the communities below:
 
 
